@@ -1,3 +1,15 @@
+# Project Deliverables
+- [Github Repo](https://github.com/LLLLLLLLL1516/Deploying_a_Scalable_ML_Pipeline_in_Production)
+- [Model Card](./model_card_template.md)
+- [Slices Performance.txt](./model/slices_performance.txt)
+
+- [Continuous Integration](./screenshots/continuous_integration_github_action.png)
+- [Continuous Deployment](./screenshots/continuous_deloyment.png)
+- [Fast API Example](./screenshots/'API Example.png')
+- [Live GET](./screenshots/live_get.png)
+- [Live POST](./screenshots/live_post.png)
+
+-----
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
 
 # Environment Set up
