@@ -4,10 +4,10 @@
 - [Slices Performance.txt](./model/slices_performance.txt)
 
 - [Continuous Integration](./screenshots/continuous_integration_github_action.png)
-- [Continuous Deployment](./screenshots/continuous_deloyment.png)
-- [Fast API Example](./screenshots/'API Example.png')
-- [Live GET](./screenshots/live_get.png)
-- [Live POST](./screenshots/live_post.png)
+- [Continuous Deployment](./screenshots/ccontinuous_deployment.png)
+- [Fast API Example](./screenshots/api_example.png)
+- [Live GET](./screenshots/api_test_live_root.png)
+- [Live POST](./screenshots/api_test_live_post.png)
 
 -----
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
